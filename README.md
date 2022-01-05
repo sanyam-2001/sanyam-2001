@@ -66,7 +66,8 @@ Here are some ideas to get you started:
  ## 📊 My Github Stats
 <p >
  <img align = "left" src="https://github-readme-stats.vercel.app/api?username=sanyam-2001&hide=stars&show_icons=true&theme=dracula&line_height=32">
-  <img align = " right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanyam-2001&theme=dracula">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanyam-2001&show_icons=true&theme=dark&locale=en&layout=compact" alt="arnav-0809" />
+
  
 </p>
 <br> <br>
