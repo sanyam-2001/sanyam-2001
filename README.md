@@ -47,20 +47,14 @@ Here are some ideas to get you started:
 ## 🚀 Languages and Tools:
 
 <p > 
-    <img src="https://icongr.am/devicon/html5-original-wordmark.svg?size=128&color=currentColor" alt="htm5" width="70" height="70"/>
- <img src="https://icongr.am/devicon/css3-original-wordmark.svg?size=128&color=currentColor" alt="css3" width="80" height="70"/>
- <img src="https://icongr.am/devicon/bootstrap-plain.svg?size=128&color=currentColor" alt="bootstrap" width="60" height="70"/> 
- 
- <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" alt="js" width="70" height="70"/>
-  <img src="https://icongr.am/devicon/java-original.svg?size=129&color=36a1c4" alt="java" width="70" height="80"/>
+  <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" alt="js" width="70" height="70"/>
+ <img src="https://icongr.am/devicon/nodejs-original-wordmark.svg?size=128&color=currentColor" alt="bootstrap" width="60" height="70"/> 
+  <img src="https://icongr.am/devicon/mongodb-original.svg?size=128&color=currentColor" alt="java" width="70" height="80"/>
  <img src="https://icongr.am/devicon/c-original.svg?size=129&color=36a1c4" alt="c" width="70" height="80"/>
- 
  <img src="https://icongr.am/devicon/git-original.svg?size=129&color=36a1c4" alt="git" width="70" height="80"/> 
  <img src="https://icongr.am/devicon/github-original.svg?size=129&color=36a1c4" alt="github" width="70" height="80"/>
  <img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width = "70">
- 
- <img src="https://icongr.am/devicon/nodejs-original-wordmark.svg?size=128&color=currentColor" alt="Nodejs" width="70" height="80"/>
-<!--  <img src="https://iconscout.com/icon/firebase-1" alt="Firebase" width="70" height="80"/> -->
+ <!--  <img src="https://iconscout.com/icon/firebase-1" alt="Firebase" width="70" height="80"/> -->
  
  </p>
 
