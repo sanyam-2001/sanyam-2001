@@ -32,13 +32,11 @@ Here are some ideas to get you started:
 <img src="https://github.com/raksha009/Raksha_Readme/blob/main/life_balance.gif" alt="side Image" align="right" width="460" height="auto" />
 
 <h3>
- I’m currently persuing my B.Tech. in IT from USICT. I am a Full Stack Web Developer with a Keen interest in Cloud and Backend Architecture</b>. <br>
+ I’m currently working as a Software Developer, working on technologies like Kafka and Hazelcast</b>. <br>
  
  
  ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Python** and **Data Structures and Algorithms.**
-- 👯 I’m looking to collaborate on **OpenSource Projects**
 - 📫 Reach me **sanyambhaskar5@gmail.com**
 - ⚡ Fun fact: I love Football!
 </h3>
